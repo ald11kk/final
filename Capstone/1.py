@@ -3,7 +3,6 @@ import numpy as np
 import math
 df = pd.read_excel("E:\VScode\Capstone\datasets\Quiz1-Student Version_Questions2,4,5,6_Main_Dataset.xlsx") 
 
-#yes this is my first message here
 # # Select the 'Corruption level Rating Score (0-100)' column
 # sample_scores = df['Corruption level Rating Score (0-100)']
 
