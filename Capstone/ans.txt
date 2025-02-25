@@ -102,3 +102,67 @@ Recall: 0 , 4
 F-1Score: 0 , 4 8 8
 Please round up to 3 digits after floating point
 
+6)
+
+A: Class Scheduling
+B: Payment Processing
+C: Equipment Management
+D: Performance Requirements
+E: Security Requirements
+F: Compatibility Requirements
+
+7)
+Race/Ethnicity
+
+n
+
+Estimated Proportion
+
+Standard Error
+
+Adjusted SE (Clustering)
+
+
+
+Mexican
+1 5 0
+
+0 , 1 5
+
+0 , 0 1
+
+0 , 0 1
+
+Other
+8 0
+
+0 , 0 8
+
+0 , 0 1
+
+0 , 0 1
+
+
+Race/Ethnicity
+
+95% CI
+
+95% CI (Adjusted)
+
+Design Effect
+
+Mexican
+0 , 1 3    and 0 , 1 7
+
+0 , 1 3    and 0 , 2
+
+1 , 0 9
+
+Other
+0 , 0 6    and 0 , 1 0
+
+0 , 0 6    and 0 , 1 0
+
+1 , 0 8
+
+
