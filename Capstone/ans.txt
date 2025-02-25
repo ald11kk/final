@@ -6,16 +6,17 @@
 | 100          | 34            | [11.75, 4.26, -4.82, 2.56, 1.38]         | 11.75          |
 | 1000         | 2             | [18.54, 7.28, -7.05, 4.25, 3.63]         | 18.54          |
 
-Functional test
-Integration test
-Regression test
-Performance Testing
-Stress Testing
 
 
-50,6
-6,89
-65,28
-35,92
-0,25
-50,6
+1)
+mean 50,6
+SE - 6,89
+UL - 65,28
+LL - 35,92
+Wh - 0,25
+
+SE - 6.6
+dv - 0.96
+d-square - 0.92
+Neff - 17.4
+
