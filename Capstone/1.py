@@ -119,6 +119,9 @@ print("Compute d-squared:", d_squared)
 roh = ((d_squared - 1)/(4-1)) # divide by mean in clusters
 print("Compute roh:", roh.round(2))
 
+
+#asdasd
+
 #neff
 neff = round(len(df)/d_squared, 2)
 
