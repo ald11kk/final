@@ -165,4 +165,71 @@ Other
 
 1 , 0 8
 
+8)
+
+In this question you can see 1 code example that incorporate different naming conventions. Please match variables' name with correct naming conventions.
+
+
+private int intStudentID; Hungarian
+
+public string Name { get { return strName; } set { strName = value; } } Pascal
+
+private double dblGPA; Hungarian
+public int StudentID { get { return intStudentID; } set { intStudentID = value; } } Acronym
+private string strName; Hungarian
+private List<Course> lstCourses; Hungarian
+private List<Enrollment> lstEnrollments; Hungarian
+
+9)
+
+A
+
+Answer 1
+Functional Test
+B
+
+Answer 2
+Integration Test
+def test_cart_operations
+
+Answer 3
+Stress Testing
+def test_calculate
+
+Answer 4
+Performance Testing
+
+10)
+
+Suppose that you have different diagrams for Gym Management System. Your main task is to read carefully attached document, and match with correct diagram types.
+
+A
+
+Answer 1
+Object Diagram
+B
+
+Answer 2
+Profile Diagram
+C
+
+Answer 3
+Use Case Diagram
+D
+
+Answer 4
+Component Diagram
+E
+
+Answer 5
+Class Diagram
+F
+
+Answer 6
+Interaction Diagram (Sequence Diagram)
+G
+
+Answer 7
+Timing Diagram
+
 
